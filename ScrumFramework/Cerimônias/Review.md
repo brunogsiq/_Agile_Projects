@@ -1,5 +1,3 @@
-# Documento para Sprint Review
-
 ## Objetivo
 
 O objetivo desta Sprint Review é avaliar os templates desenvolvidos, criar comparações visuais de "Antes" e "Depois" em formato MP4 ou GIF, e adicionar uma foto da equipe. Além disso, será necessário criar legendas para melhorar a compreensão do trabalho realizado.
@@ -35,9 +33,3 @@ O objetivo desta Sprint Review é avaliar os templates desenvolvidos, criar comp
 
 4. **Legendas:**
    - Arquivo contendo as legendas para os vídeos.
-
-## Prazo
-
-Todos os entregáveis devem ser concluídos até [Inserir Data]. A Sprint Review está agendada para [Inserir Data], onde os resultados serão apresentados e discutidos.
-
-Agradecemos o esforço da equipe e estamos ansiosos para revisar os resultados desta sprint.

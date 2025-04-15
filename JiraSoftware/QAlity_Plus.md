@@ -10,8 +10,8 @@
 -            Abertura de Itens Filhos com os cenários de Teste (Imprescindível que os cenários de teste contabilizem o % de progresso da história)
 -                Cards de Bug vinculado ao item filho;
 
-![alt text](image-1.png)
+![alt text](img/image-1.png)
 
-![alt text](image-2.png)
+![alt text](img/image-2.png)
 
-![alt text](image-3.png)
+![alt text](img/image-3.png)

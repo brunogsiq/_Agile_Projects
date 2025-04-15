@@ -24,12 +24,7 @@ Ao abrir um teste dentro de uma tarefa, utilize a seguinte estrutura para manter
    - Status atual do teste (Pendente, Em Execução, Concluído).
 
 **Exemplo:**
-
-```markdown
-01.1 - Web - TxT - Funcional - Tela de Cadastro - Validar Opção Cadastrar - Cadastro do tipo inválido.
-```
-
-## Visualização de Teste:
+   01.1 - Web - TxT - Funcional - Tela de Cadastro - Validar Opção Cadastrar - Cadastro do tipo inválido.
 
 ### Test Plans:
 
